@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Diet App</string>
+    <string name="title_page_brand_text">Diet App Navigation</string>
+    <string name="title_page_button_calorie_counter">Calorie Counter</string>
+    <string name="title_page_button_goals">Goals</string>
+    <string name="title_page_button_weight_progress">Weight Progress</string>
+    <string name="title_page_button_exercise">Exercise</string>
+    <string name="title_page_button_nutrition">Nutrition</string>
+    <string name="title_page_button_healthy_recipes">Healthy Recipes</string>
+    <string name="title_page_credit"><div>Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></string>
+    <string name="foodname_hint">What did you eat?</string>
+    <string name="calorie_hint">How many calories?</string>
+    <string name="maker_hint">Where is the food from?</string>
+    <string name="servingsize_hint">What was the serving size?</string>
+    <string name="servingweight_hint">Weight per serving size?</string>
+    <string name="foodfat_hint">How much fat did it have?</string>
+    <string name="foodprotein_hint">How much protein did it have?</string>
+    <string name="foodcarbs_hint">How many carbs did it have?</string>
+    <string name="addFoodText">Add Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_diary">Food Diary</string>
+    <string name="food_entry">Enter Food</string>
+    <string name="move">Move</string>
+    <string name="eat">Eat</string>
+    <string name="consumed">consumed</string>
+
+    <string name="input_new_food">Input new food</string>
+    <string name="choose_from_list">Choose from list</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_food">What did you eat?</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="Food_Review">Food Review</string>
+    <string name="calories">calories</string>
+
+    <string name="limit">limit</string>
+
+
+    <string name="delete_button">Delete Food</string>
+
+    <string name="healthyrecipe_food">Chili Lime Shrimp Skewers</string>
+    <string name="healthyrecipe_food_shrimp_source">source of Omega-3 and selenium</string>
+    <string name="healthyrecipe_food_viewRecipe_button">View Recipe</string>
+    <string name="healthyrecipe_food_shrimp_fact">Calories: 148k Cal | Protein: 23g | Fat: 5g | Cholesterol: 285mg | Sodium: 1180mg | Potassium: 100mg | Vitamin A: 150IU | Vitamin C: 5.2mg | Calcium: 168mg | Iron: 2.5mg</string>
+    <string name="healthyrecipe_food_shrimp_instruction_title">Instruction: </string>
+    <string name="healthyrecipe_food_shrimp_instruction1">1. Combine oil, chili powder, garlic, lime juice and zest, and salt in a small bowl.  Whisk well.  Pour over shrimp and let marinate for 20 minutes.</string>
+    <string name="healthyrecipe_food_shrimp_instruction2">2. Preheat grill.  Thread shrimp onto skewers and grill over medium heat, about 2 minutes per side, just until shrimp turn pink.</string>
+    <string name="healthyrecipe_food_shrimp_instruction3">3. Sprinkle with chopped cilantro and serve.</string>
+    <string name="healthyrecipe_food_shrimp_ingredient_title">Ingredients: </string>
+    <string name="healthyrecipe_food_shrimp_ingredient1">1 lb raw deveined shrimp</string>
+    <string name="healthyrecipe_food_shrimp_ingredient2">1 tablespoon olive or avocado oil</string>
+    <string name="healthyrecipe_food_shrimp_ingredient3">1 teaspoon chili powder</string>
+    <string name="healthyrecipe_food_shrimp_ingredient4">1 1/2 teaspoon minced garlic about 3 cloves</string>
+    <string name="healthyrecipe_food_shrimp_ingredient5">Juice and zest of 1 Lime</string>
+    <string name="healthyrecipe_food_shrimp_ingredient6">1/2 teaspoon sea salt</string>
+    <string name="healthyrecipe_food_shrimp_ingredient7">chopped fresh cilantro</string>
+    <string name="healthyrecipe_food_shrimp_timer">Prep Time: 20 minutes | | Cook Time: 5 minutes </string>
+
+    <string name="healthyrecipe_drink_OrangeJuice_title">Orange Juice</string>
+    <string name="healthyrecipe_drink_OrangeJuice_source">source of Vitamin C</string>
+    <string name="healthyrecipe_drink_OrangeJuice_fact">Calories: 110k Cal | Protein: 2g | Carbs: 26g | Vitamin C: 67% of the Reference Daily Intake (RDI) | Folate: 15% of the RDI | Potassium: 10% of the RDI | Magnesium: 6% of the RDI</string>
+
+
+    <string name="egg_prompt">How do you like your egg?</string>
+    <string name="timer_on">Start</string>
+    <string name="timer_off">Stop</string>
+    <string name="notification_title">Egg Timer</string>
+    <string name="notification_text">Your egg is ready!!</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="message_subscribe_failed">Failed to subscribe to topic</string>
+    <string name="message_subscribed">Subscribed to topic</string>
+    <string name="egg_notification_channel_id" translatable="false">egg_channel</string>
+    <string name="egg_notification_channel_name" translatable="true">Egg</string>
+    <string name="breakfast_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="breakfast_notification_channel_name" translatable="true">Breakfast</string>
+    <string name="eggs_ready">It is time! Bon appetit!</string>
+    <string name="timer_running">Egg timer is running...</string>
+    <string name="breakfast_notification_channel_description">Breakfast reminder</string>
+    <string name="snooze">Snooze</string>
+    <string name="title_page_button_notification">Reminders</string>
+
+    <string name="exercise_intro">1. The key to successful weight loss is developing healthy diet and exercise habits. You may not like those words — diet and exercise. But do not get hung up on them. Diet just means eating healthy, lower calorie meals. <br></br>Exercise means being more physically active.</string>
+    <string name="exercise_intro_2">2. Although people appropriately focus on diet when they are trying to lose weight, being active also is an essential component of a weight-loss program. When you are active, your body uses energy (calories) to move, helping to burn the calories you take in with food you eat.</string>
+    <string name="exercise_intro_3">3. Whatever activity you choose, do it regularly. Aim for at least 150 minutes a week of moderate physical activity or 75 minutes a week of vigorous aerobic activity — preferably spread throughout the week. Keep in mind that you may need more physical activity to lose weight and keep it off.</string>
+    <string name="more_exercise_button">Tips to Maximize the workout</string>
+
+    <string name="exercise2">5 tips to maximize your workouts</string>
+    <string name="home_button">Home</string>
+    <string name="exercise2_2">1. Eat a healthy breakfast: If you exercise in the morning, get up early enough to finish breakfast at least one hour before your workout.</string>
+    <string name="exercise2_3">2. Watch the food portion size: Be careful not to overdo it when it comes to how much you eat before exercise.</string>
+    <string name="exercise2_4">3. Snack well: Snacks eaten soon before exercise probably would not give you added energy if your workout lasts less than 60 minutes, but they may prevent distracting hunger pangs.</string>
+    <string name="exercise2_5">4. Eat after you exercise: To help your muscles recover and to replace their glycogen stores, eat a meal that contains both carbohydrates and protein within two hours of your exercise session if possible.</string>
+    <string name="exercise2_6">5. Drink up: Do not forget to drink fluids. You need adequate fluids before, during and after exercise to help prevent dehydration.</string>
+
+    <string name="recipe_button">Recipe</string>
+    <string name="calorie_button">Calorie</string>
+    <string name="key_to_weight_loss">Key to Weight Loss</string>
+    <string name="key_to_weight_loss_text">Key to Weight Loss</string>
+</resources>
